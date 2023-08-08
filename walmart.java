@@ -1,3 +1,2 @@
 
-hello.java
-walmart.java
+hello
